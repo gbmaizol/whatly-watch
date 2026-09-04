@@ -1,12 +1,12 @@
 {
   "pr100": {
-    "comments": 4,
+    "comments": 5,
     "head": "4ba3c22913131407fa263195c465005753bc4071",
-    "mergeStateStatus": "CLEAN",
-    "mergeable": "MERGEABLE",
-    "merged": false,
+    "mergeStateStatus": "-",
+    "mergeable": "-",
+    "merged": true,
     "reviews": 2,
-    "state": "OPEN"
+    "state": "MERGED"
   },
   "pr101": {
     "comments": 4,
@@ -20,10 +20,10 @@
   "issue96": {
     "comments": 1,
     "labels": "bug,enhancement",
-    "state": "OPEN"
+    "state": "CLOSED"
   },
-  "main": "4c8c9bbcef62f32af8f0e0d1ee55abf7c930ad6c",
-  "hdmedia_cpp": "f0dcb45b613a8a918ab44671915a0c7d9ea478f3",
+  "main": "319e3e964a51fc268381a08a402b7907e397c8b8",
+  "hdmedia_cpp": "2baa8a4c5bfc3dca1bba646c7a32b239edb002fd",
   "hdmedia_h": "62bf3fea06fa201d57b7a79015b72b48868da0bc",
   "release": "v7.3.1"
 }
