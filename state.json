@@ -22,8 +22,8 @@
     "labels": "bug,enhancement",
     "state": "CLOSED"
   },
-  "main": "c498a1f5c8d37694472f57e6e89ed7bea114c13e",
+  "main": "e503292b54f4074480282d0cd55e9f4e77369873",
   "hdmedia_cpp": "08342088a1ff33cb5848a2b2417a41e524b17c5b",
   "hdmedia_h": "62bf3fea06fa201d57b7a79015b72b48868da0bc",
-  "release": "v7.6.1"
+  "release": "v7.6.3"
 }
